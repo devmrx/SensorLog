@@ -1,0 +1,11 @@
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\bin\Debug\netstandard2.0\SensorLog.deps.json
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\bin\Debug\netstandard2.0\SensorLog.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\bin\Debug\netstandard2.0\SensorLog.pdb
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.csprojResolveAssemblyReference.cache
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.csproj.CoreCompileInputs.cache
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.App.xaml.g.cs
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.MainPage.xaml.g.cs
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.AssemblyInfoInputs.cache
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.AssemblyInfo.cs
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog\obj\Debug\netstandard2.0\SensorLog.pdb
