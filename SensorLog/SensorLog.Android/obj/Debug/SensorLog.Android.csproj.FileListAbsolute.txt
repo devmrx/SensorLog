@@ -28,6 +28,10 @@ F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\bin\Debug\DeviceMotion.Plugin.Abstractions.dll.mdb
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\bin\Debug\DeviceMotion.Plugin.dll.mdb
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\DeviceMotion.Plugin.Abstractions.dll.mdb
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\DeviceMotion.Plugin.dll.mdb
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\bin\Debug\SensorLog.Android.dll
 bin\Debug\DeviceMotion.Plugin.Abstractions.dll.mdb
 bin\Debug\DeviceMotion.Plugin.dll.mdb
