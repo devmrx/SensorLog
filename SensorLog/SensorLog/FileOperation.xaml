@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SensorLog.FileOperation" 
+             Title="Информация о файле">
+    
+    <ContentPage.Content>
+        <StackLayout Padding="12,12,12,12" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <StackLayout Orientation="Vertical">
+                    <Label Text=""></Label>
+                    <Label x:Name="fileNameEntry" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                    <Label x:Name="filePathL" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                    <Label x:Name="fileCount" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                    <Button Text="Открыть файл" x:Name="BtnOpen" Clicked="OpenFile"></Button>
+                    <Button Text="Удалить файл" x:Name="BtnDel" Clicked="Delete"></Button>
+                </StackLayout>
+                <Editor Grid.Row="1" x:Name="textEditor" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -62,11 +62,11 @@ F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Security.SecureString.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Web.Services.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Xml.XPath.XDocument.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.ComponentModel.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.ObjectModel.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Globalization.dll
-F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.ComponentModel.dll
-F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.IO.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
