@@ -14,10 +14,9 @@ using System.IO;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-
 [assembly: Dependency(typeof(SensorLog.Droid.FileWorker))]
-
 namespace SensorLog.Droid {
+
     class FileWorker : IFileWorker {
 
         public Task DeleteAsync(string filename) {

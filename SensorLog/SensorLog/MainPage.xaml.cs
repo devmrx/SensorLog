@@ -3,10 +3,11 @@ using DeviceMotion.Plugin.Abstractions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using System.Diagnostics;
+using System.Numerics;
 
 namespace SensorLog {
     public partial class MainPage : ContentPage {

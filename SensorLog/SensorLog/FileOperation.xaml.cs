@@ -11,7 +11,7 @@ using System.Text.RegularExpressions;
 
 namespace SensorLog
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+	//[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class FileOperation : ContentPage
 	{
         private readonly string filename;
