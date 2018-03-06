@@ -2,14 +2,39 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SensorLog"
-             x:Class="SensorLog.MainPage">
+             x:Class="SensorLog.MainPage"x:Class="App2Test.MainPage"
+             Title="Accelerometer">
+
 
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Padding="12,12,12,12" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
                 <Entry x:Name="Posit"></Entry>
                 <Entry x:Name="Test1"></Entry>
+                <Button Clicked="BtnStart_OnClicked" Text="Start"></Button>
+                <Button Clicked="BtnStop_OnClicked" Text="Stop"></Button>
+                <Label x:Name="Lbl_Count"></Label>
+
+
+
+                <Label x:Name="Lbl_Sp" Text="" HorizontalOptions="CenterAndExpand" TextColor="Black" FontSize="Medium" ></Label>
+                <ListView x:Name="filesList" Grid.Row="2"  ItemSelected="FileSelect">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding}">
+                                <TextCell.ContextActions>
+
+                                </TextCell.ContextActions>
+                            </TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+
+                <Label x:Name="Lbl1"></Label>
             </StackLayout>
         </ScrollView>
+
+
     </ContentPage.Content>
 </ContentPage>
