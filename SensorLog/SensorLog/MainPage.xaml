@@ -4,8 +4,12 @@
              xmlns:local="clr-namespace:SensorLog"
              x:Class="SensorLog.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="12,12,12,12" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                <Entry x:Name="Posit"></Entry>
+                <Entry x:Name="Test1"></Entry>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
 </ContentPage>

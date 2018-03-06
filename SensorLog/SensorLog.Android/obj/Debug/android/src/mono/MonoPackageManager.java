@@ -107,6 +107,8 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "SensorLog.Android.dll" comes first in this list. */
 		"SensorLog.Android.dll",
+		"DeviceMotion.Plugin.Abstractions.dll",
+		"DeviceMotion.Plugin.dll",
 		"FormsViewGroup.dll",
 		"SensorLog.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",

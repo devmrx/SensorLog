@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "b27794e5b5b5f10aba0a2076d6ffd15280883abb"
+    "signature": "5b457f870296fc2458a1fbf9df4486d3d95d514e"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "SensorLog/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.1",
+          "Xam.Plugin.DeviceMotion": "1.1.2",
           "Xamarin.Forms": "2.5.0.122203"
         },
         "runtime": {
@@ -20,6 +21,12 @@
       "NETStandard.Library/2.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Xam.Plugin.DeviceMotion/1.1.2": {
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.Abstractions.dll": {},
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.dll": {}
         }
       },
       "Xamarin.Forms/2.5.0.122203": {
@@ -50,6 +57,13 @@
       "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "path": "netstandard.library/2.0.1",
       "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+    },
+    "Xam.Plugin.DeviceMotion/1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-notdcg1YvNEsIIHQUJkjkOIDGXWPK+bJJEHw4jc5b/REOMCCK4GH+lTFkV/8wRgBPHQQPqjcy6tv6rZ4k4TrYQ==",
+      "path": "xam.plugin.devicemotion/1.1.2",
+      "hashPath": "xam.plugin.devicemotion.1.1.2.nupkg.sha512"
     },
     "Xamarin.Forms/2.5.0.122203": {
       "type": "package",

@@ -2,6 +2,17 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v8.0": {
+      "Xam.Plugin.DeviceMotion/1.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid10/DeviceMotion.Plugin.Abstractions.dll": {},
+          "lib/MonoAndroid10/DeviceMotion.Plugin.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid10/DeviceMotion.Plugin.Abstractions.dll": {},
+          "lib/MonoAndroid10/DeviceMotion.Plugin.dll": {}
+        }
+      },
       "Xamarin.Android.Support.Animated.Vector.Drawable/25.4.0.2": {
         "type": "package",
         "dependencies": {
@@ -295,6 +306,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugin.DeviceMotion": "1.1.2",
           "Xamarin.Forms": "2.5.0.122203"
         },
         "compile": {
@@ -307,6 +319,65 @@
     }
   },
   "libraries": {
+    "Xam.Plugin.DeviceMotion/1.1.2": {
+      "sha512": "notdcg1YvNEsIIHQUJkjkOIDGXWPK+bJJEHw4jc5b/REOMCCK4GH+lTFkV/8wRgBPHQQPqjcy6tv6rZ4k4TrYQ==",
+      "type": "package",
+      "path": "xam.plugin.devicemotion/1.1.2",
+      "files": [
+        "lib/MonoAndroid10/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/MonoAndroid10/DeviceMotion.Plugin.Abstractions.dll.mdb",
+        "lib/MonoAndroid10/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/MonoAndroid10/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/MonoAndroid10/DeviceMotion.Plugin.XML",
+        "lib/MonoAndroid10/DeviceMotion.Plugin.dll",
+        "lib/MonoAndroid10/DeviceMotion.Plugin.dll.mdb",
+        "lib/MonoAndroid10/DeviceMotion.Plugin.pdb",
+        "lib/MonoTouch10/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/MonoTouch10/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/MonoTouch10/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/MonoTouch10/DeviceMotion.Plugin.XML",
+        "lib/MonoTouch10/DeviceMotion.Plugin.dll",
+        "lib/UAP10/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/UAP10/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/UAP10/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/UAP10/DeviceMotion.Plugin.dll",
+        "lib/UAP10/DeviceMotion.Plugin.pdb",
+        "lib/UAP10/DeviceMotion.Plugin.pri",
+        "lib/Xamarin.iOS10/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/Xamarin.iOS10/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/Xamarin.iOS10/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/Xamarin.iOS10/DeviceMotion.Plugin.XML",
+        "lib/Xamarin.iOS10/DeviceMotion.Plugin.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.XML",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/DeviceMotion.Plugin.pdb",
+        "lib/win8/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/win8/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/win8/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/win8/DeviceMotion.Plugin.XML",
+        "lib/win8/DeviceMotion.Plugin.dll",
+        "lib/win8/DeviceMotion.Plugin.pdb",
+        "lib/win8/DeviceMotion.Plugin.pri",
+        "lib/wp8/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/wp8/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/wp8/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/wp8/DeviceMotion.Plugin.XML",
+        "lib/wp8/DeviceMotion.Plugin.dll",
+        "lib/wp8/DeviceMotion.Plugin.pdb",
+        "lib/wpa81/DeviceMotion.Plugin.Abstractions.dll",
+        "lib/wpa81/DeviceMotion.Plugin.Abstractions.pdb",
+        "lib/wpa81/DeviceMotion.Plugin.Abstractions.xml",
+        "lib/wpa81/DeviceMotion.Plugin.XML",
+        "lib/wpa81/DeviceMotion.Plugin.dll",
+        "lib/wpa81/DeviceMotion.Plugin.pdb",
+        "lib/wpa81/DeviceMotion.Plugin.pri",
+        "xam.plugin.devicemotion.1.1.2.nupkg.sha512",
+        "xam.plugin.devicemotion.nuspec"
+      ]
+    },
     "Xamarin.Android.Support.Animated.Vector.Drawable/25.4.0.2": {
       "sha512": "SaSUvYnc6ntGD/Rvo8O+Ks1yS5hgMFUPfPIEsBC337weZzyIeInKQJHt2myxCEER/5UutmBPlptlbn9Yki21RA==",
       "type": "package",

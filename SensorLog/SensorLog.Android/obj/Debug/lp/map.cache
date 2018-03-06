@@ -24,3 +24,6 @@ Xamarin.Forms.Xaml
 netstandard
 System.ComponentModel
 System.Reflection.Extensions
+DeviceMotion.Plugin.Abstractions
+DeviceMotion.Plugin
+System.Resources.ResourceManager

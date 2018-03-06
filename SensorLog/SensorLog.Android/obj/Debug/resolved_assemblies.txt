@@ -1,4 +1,6 @@
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\SensorLog.Android.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\DeviceMotion.Plugin.Abstractions.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\DeviceMotion.Plugin.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\FormsViewGroup.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Java.Interop.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Mono.Android.dll
@@ -29,6 +31,8 @@ F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Threading.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Collections.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
@@ -36,7 +40,6 @@ F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Linq.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Net.Http.dll
 F:\EnergyHarvest\SensorLog\SensorLog\SensorLog.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
