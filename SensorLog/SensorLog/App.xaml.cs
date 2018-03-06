@@ -13,7 +13,7 @@ namespace SensorLog
 		{
 			InitializeComponent();
 
-			MainPage = new SensorLog.MainPage();
+			MainPage = new NavigationPage(new SensorLog.MainPage());
 		}
 
 		protected override void OnStart ()
